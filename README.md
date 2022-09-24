@@ -1,9 +1,9 @@
 ### Hi, I'm Carlos
 
-- 🔭 I’m currently working on be a data analyst
-- 🌱 I’m currently learning Python for data science
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I don't know what I'm doing
+- Currently working on be a data analyst
+- Learning Python for data science
+- Pronouns: He/His
+- Fun fact: I don't know what I'm doing
 
 <div align="center">
   <a href="https://github.com/cmd1301">
